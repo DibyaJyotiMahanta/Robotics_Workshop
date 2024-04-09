@@ -21,5 +21,5 @@ Welcome to the GitHub repository for the Robotics Workshop, a two-day intensive 
    - Code: Algorithms for tracking and following human movement, along with safety measures.
 
 ## Glimpse of the event:
-
-![Photo_1](Photos and Videos/IMG_20240405_105253.jpg)
+![Robo](Photos%20and%20Videos/IMG_20240405_155952.jpg)
+![Arduino](Photos%20and%20Videos/IMG_20240405_105923.jpg)
